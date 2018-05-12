@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24922'
     url: http://www.gutenberg.org/2009/agents/24922
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21840#WomanHer-Sex-and-Love-Life
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2007-06-15'
 gutenberg_type: Text
