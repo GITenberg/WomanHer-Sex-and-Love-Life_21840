@@ -1,0 +1,32 @@
+_repo: WomanHer-Sex-and-Love-Life_21840
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, William J. (William Josephus)
+    alias: Robinson, William Josephus
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '24922'
+    url: http://www.gutenberg.org/2009/agents/24922
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2007-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sex'
+- !lcsh 'Sexual health'
+- !lcsh 'Women -- Health and hygiene'
+title: 'Woman
+
+  Her Sex and Love Life'
+url: http://www.gutenberg.org/ebooks/21840
